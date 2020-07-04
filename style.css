@@ -1,0 +1,20 @@
+h1{
+    color:dimgrey;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.games{
+    display: flex;
+    justify-content:space-around;
+}
+
+.link{
+    color: aqua;
+    background-color: black;
+
+    display: flex;
+    justify-content:space-evenly
+}
